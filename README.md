@@ -1,2 +1,3 @@
-# Constru-oCompiladores
-Rep para a matéria Construção de Compiladores
+# Construção de Compiladores
+
+Matéria ministrada pelo professor Luiz Gustavo Almeida Martins 
